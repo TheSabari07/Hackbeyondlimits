@@ -47,7 +47,7 @@ const Header = () => (
         <a href="/machines">MACHINES</a>
       </nav>
     </div>
-    <div className="page-title">Predictive Maintenance / Sector Name 1</div>
+    
     <div className="last-updated">Last Updated: [timestamp]</div>
   </div>
 );
