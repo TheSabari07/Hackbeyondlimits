@@ -14,6 +14,18 @@ const machineData = [
   { name: "Machine 9", pressure: 1800, temperature: 330, vibration: 11, gasFlow: 3.8, RUL: 20 },
   { name: "Machine 10", pressure: 1900, temperature: 340, vibration: 12, gasFlow: 4.0, RUL: 10 },
 ];
+const getRULClass = (rul) => {
+  if (rul > 70) {
+    return 'good';  // RUL > 70 is considered good
+  } else if (rul > 40) {
+    return 'warning';  // RUL between 40 and 70 is a warning
+  } else if (rul > 20) {
+    return 'custom';  // Custom range (20-40) can have a gradient color
+  } else {
+    return 'danger';  // RUL < 20 is critical, red color
+  }
+};
+
 
 const isAbnormal = (machine) => {
   return (
