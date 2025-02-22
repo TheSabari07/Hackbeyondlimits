@@ -10,7 +10,7 @@ body {
 }
 
 .sidebar {
-  width: 10%;
+  width: 15%;
   background-color: #282828;
   color: #e0e0e0;
   padding: 20px;
@@ -36,12 +36,17 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  transition: background-color 0.3s;
 }
 
 .sidebar li a {
   color: #e0e0e0;
   text-decoration: none;
   flex-grow: 1;
+}
+
+.sidebar li:hover {
+  background-color: #3a3a3a;
 }
 
 .sidebar li a:hover {
@@ -54,6 +59,7 @@ body {
 
 .sector-with-issues {
   position: relative;
+background-color: #f44336; /* Red background for sector with issues */
 }
 
 .issue-indicator {
@@ -62,9 +68,13 @@ body {
   position: absolute;
   right: 10px;
 }
+.sector-good{
+  background-color: #298a29;
+}
 
 .machine-count {
-  font-size: 0.9em;
+  font-size: 0.6em;
+padding-left: 8px;
   color: #a0aec0;
 }
 
@@ -74,7 +84,7 @@ body {
   padding: 20px;
   display: flex;
   flex-direction: column;
-  margin-left: 20%; /* Adjust for the fixed sidebar */
+ margin: 0px; /* Adjust for the fixed sidebar */
 }
 
 .header-top {

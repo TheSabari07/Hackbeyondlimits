@@ -18,16 +18,16 @@ const Sidebar = () => (
   <div className="sidebar">
     <h2>ALL SECTOR</h2>
     <ul>
-      <li className="selected-sector">
+      <li className="selected-sector sector-good">
         <a href="#sector1">SECTOR NAME 1</a>
         <span className="machine-count">10 Machines</span>
       </li>
       <li className="sector-with-issues">
         <a href="#sector2">SECTOR NAME 2</a>
         <span className="machine-count">8 Machines</span>
-         
+        
       </li>
-      <li>
+      <li className="sector-good"> 
         <a href="#sector3">SECTOR NAME 3</a>
         <span className="machine-count">12 Machines</span>
       </li>
@@ -49,9 +49,10 @@ const Header = () => (
     </div>
     <div className="page-title">Predictive Maintenance / Sector Name 1</div>
     <div className="last-updated">Last Updated: [timestamp]</div>
-  </div>  
-);  
+  </div>
+);
+
 export default App;
 
 
- 
+
