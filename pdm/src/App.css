@@ -131,8 +131,8 @@ padding-left: 8px;
 }
 
 .main-content {
-  width: 80%;
-  margin-left: 20%; /* Adjust for the fixed sidebar */
+  width: 100%;
+  margin-left: 0%; /* Adjust for the fixed sidebar */
   display: flex;
   flex-direction: column;
 }
