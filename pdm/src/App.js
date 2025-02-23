@@ -18,7 +18,7 @@ function App() {
 
   return (
     <div className="app">
-      <Sidebar />
+      {/* <Sidebar /> */}
       <div className="main-content">
         <Header currentTime={currentTime} />
         <Dashboard />
