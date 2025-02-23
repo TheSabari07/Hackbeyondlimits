@@ -120,6 +120,53 @@ graph TD;
 
 ---
 
+# Predictive Maintenance for Industry Automation  
+
+## ▬▬▬▬▬▬ Case Study ▬▬▬▬▬▬  
+
+### Growth of Small-Scale Industries  
+- The number of **Small-Scale Industries (SSI)** in Tamil Nadu has grown significantly.  
+- From **18,440 units in 1977** to **3,87,597 units in 2001**, showcasing a **massive expansion**.  
+
+**[Insert Image: Small Scale Industry Growth]**  
+
+### Total Manufacturing Industries in Tamil Nadu  
+- Tamil Nadu has a strong **manufacturing base** across multiple sectors.  
+- A detailed breakdown of **total number of industries** is provided below.  
+
+**[Insert Image: Total Number of Manufacturing Industries]**  
+
+### Industry Distribution in Tamil Nadu  
+- **Top industries by share:**  
+  - **Hosiery & Readymade Garments:** **22.2%** (89,464 units)  
+  - **Other Manufacturing:** **15%** (58,777 units)  
+  - **Food Products:** **10%** (37,152 units)  
+  - **Others:** Share in **single digits**  
+
+**[Insert Image: Pie Chart of Industries in Tamil Nadu]**  
+
+## ▬▬▬▬▬▬ Key Insights ▬▬▬▬▬▬  
+
+### Competitor Analysis  
+- **Competitors are not focusing on small-scale industries**  
+- **No automation solutions for worker safety**  
+
+### Research & Development  
+- **Predictive maintenance** helps **reduce downtime & enhance efficiency**  
+- **AI-driven failure detection** for cost savings  
+
+## ▬▬▬▬▬▬ Project Focus ▬▬▬▬▬▬  
+
+### Predictive Maintenance for Industrial Automation  
+**Objective:** Prevent **unexpected machine failures** and **increase efficiency**  
+
+### Why Target Small-Scale Industries?  
+- **High number of units**  
+- **Lack of existing automation solutions**  
+- **High impact on productivity and safety**  
+
+---
+
 ## **Conclusion**
 
 The **Smart Maintain X** system transforms industrial maintenance by leveraging **IoT, AI, and predictive analytics**. By reducing downtime, optimizing efficiency, and improving reliability, this solution revolutionizes maintenance practices and enhances productivity across industries.
