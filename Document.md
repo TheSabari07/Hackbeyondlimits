@@ -128,13 +128,13 @@ graph TD;
 - The number of **Small-Scale Industries (SSI)** in Tamil Nadu has grown significantly.  
 - From **18,440 units in 1977** to **3,87,597 units in 2001**, showcasing a **massive expansion**.  
 
-**[Insert Image: Small Scale Industry Growth]**  
+![Small Scale Industry Growth](Images/image1.png)
 
 ### Total Manufacturing Industries in Tamil Nadu  
 - Tamil Nadu has a strong **manufacturing base** across multiple sectors.  
 - A detailed breakdown of **total number of industries** is provided below.  
 
-**[Insert Image: Total Number of Manufacturing Industries]**  
+**![Total Manufacturing Industries](Images/image2.png)**  
 
 ### Industry Distribution in Tamil Nadu  
 - **Top industries by share:**  
@@ -143,7 +143,7 @@ graph TD;
   - **Food Products:** **10%** (37,152 units)  
   - **Others:** Share in **single digits**  
 
-**[Insert Image: Pie Chart of Industries in Tamil Nadu]**  
+**![Industry Distribution](Images/image3.png)**  
 
 ## ▬▬▬▬▬▬ Key Insights ▬▬▬▬▬▬  
 
