@@ -18,6 +18,6 @@ We are building **Smart MaintainX**, a predictive maintenance system designed to
 - Web Dashboard (for monitoring and alerts)  
 
 ## Team  
-We are a team of six passionate innovators working on cutting-edge solutions for predictive maintenance.  
+We are a team of three passionate innovators working on cutting-edge solutions for predictive maintenance.  
 
 >Stay tuned for updates.  
